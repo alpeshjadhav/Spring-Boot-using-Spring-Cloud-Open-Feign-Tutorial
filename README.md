@@ -1,7 +1,5 @@
 Spring Boot Microservices Communication using Spring Cloud OpenFeign
 #
-Overview: The article provides a tutorial on how to set up communication between microservices in a Spring Boot application using Spring Cloud OpenFeign.
-#
 Spring Cloud OpenFeign:<br/>
 A declarative web service client, making it easier to call web services.
 It simplifies HTTP API clients by abstracting away the underlying HTTP communication.
