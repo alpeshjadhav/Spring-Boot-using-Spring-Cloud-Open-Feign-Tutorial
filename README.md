@@ -12,7 +12,7 @@ Include Dependencies:<br/>
 #
 Annotate the main application class with @EnableFeignClients.
 #
-Define an interface in Department-Service to communicate with User-Service.
+Define an interface in User-Service to communicate with Department-Service.
 #
 Conclusion:<br/>
 Spring Cloud OpenFeign is a powerful tool for simplifying inter-service communication in a microservices architecture.<br/>
